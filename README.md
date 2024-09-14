@@ -1,4 +1,4 @@
-# Cumulative Reasoning With Large Language Models
+# Cumulative Reasoning With with Diverse Perspectives
 
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/cumulative-reasoning-with-large-language/math-word-problem-solving-on-math)](https://paperswithcode.com/sota/math-word-problem-solving-on-math?p=cumulative-reasoning-with-large-language)
@@ -94,11 +94,3 @@ This repo is mainly based on [Guidance](https://github.com/microsoft/guidance), 
 ## Citations
 Please cite the paper and star this repo if you use Cumulative Reasoning (CR) and find it interesting/useful, thanks! Feel free to contact zhangyif21@tsinghua.edu.cn | yangjq21@mails.tsinghua.edu.cn or open an issue if you have any questions.
 
-```bibtex
-@article{zhang2023cumulative,
-  title={Cumulative Reasoning With Large Language Models},
-  author={Zhang, Yifan and Yang, Jingqin and Yuan, Yang and Yao, Andrew Chi-Chih},
-  journal={arXiv preprint arXiv:2308.04371},
-  year={2023}
-}
-```
